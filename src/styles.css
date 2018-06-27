@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.app {
+  display: flex;
+}
+.room {
+  flex: 1;
+  margin-right: 40px;
+  padding-right: 40px;
+}
+.messages {
+  flex: 2;
+}
